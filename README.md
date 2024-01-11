@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Namaste!🙏+;+I'm+Prem+Thakare!👋;" /></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3300&lines=Namaste!🙏+;+I'm+Tanish+singh!👋;" /></h1>
 <h3 align="center">Aspiring Computer Science Engineer from India 🇮🇳.</h3>
 <h1 align="center"></h1>
 
@@ -10,20 +10,18 @@
 📍 Mumbai ,India<br>📖studying B.tech at ITM Skills university<br>🔭 I’m currently working on Python ,  c++ , and various programming language<br>🌱 I’m currently learning Python<br>❤️‍🔥 Passionate about learning new technology.<br><br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tanish.snghh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PremThakare) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/premthakare96680) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@PremThakare_) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tanish.snghh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanish-singh-279005215) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TanishSinghRaj5) 
+
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PremThakareitm&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PremThakareitm&theme=flag-india&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PremThakareitm&theme=flag-india&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PremThakareitm&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api?username=Tanishsnghhh&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Tanishsnghhh&theme=graywhite&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanishsnghhh&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PremThakareitm&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Tanishsnghhh&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premthakareitm" alt="premthakareitm" /></a> </p>
 
