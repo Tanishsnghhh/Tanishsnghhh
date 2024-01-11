@@ -23,6 +23,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Tanishsnghhh&icon=1&color=0)](https://visitcount.itsvg.in)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premthakareitm" alt="premthakareitm" /></a> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
