@@ -18,7 +18,9 @@
 <div align="center">
   <h2>💪My Contributions</h2>
   <br>
+
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tanishsnghhh/Tanishsnghhh/output/github-contribution-grid-snake.svg" />
+
 </div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tanishsnghhh&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
