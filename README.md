@@ -6,11 +6,10 @@
 <div align="left">
 
 # About Me 😎:
-💫 About Me:
-📍 Mumbai ,India<br>📖studying B.tech at ITM Skills university<br>🔭 I’m currently working on Python ,  c++ , and various programming language<br>🌱 I’m currently learning Python<br>❤️‍🔥 Passionate about learning new technology.<br><br>
+<br>📖studying B.tech at ITM Skills university<br>🔭 I’m currently working on Python ,  c++ , and various programming language<br>🌱 I’m currently learning Python<br>❤️‍🔥 Passionate about learning new technology.<br><br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tanish.snghh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanish-singh-279005215) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TanishSinghRaj5) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanish-singh-279005215) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TanishSinghRaj5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tanish.snghh_) 
 
 
 # 💻 Tech Stack:
