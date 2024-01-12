@@ -14,6 +14,12 @@
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+
+<div align="center">
+  <h2>💪My Contributions</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tanishsnghhh/Tanishsnghhh/output/github-contribution-grid-snake.svg" />
+</div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tanishsnghhh&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tanishsnghhh&theme=graywhite&hide_border=false)<br/>
