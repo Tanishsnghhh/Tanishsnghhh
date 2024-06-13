@@ -2,7 +2,6 @@
 <h3 align="center"> Computer Science Engineer from India 🇮🇳 </h3>
 <h1 align="center"></h1>
 
-
 <div align="left">
 
 # About Me 😎:
