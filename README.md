@@ -29,3 +29,15 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=Tanishsnghhh&icon=1&color=0)](https://visitcount.itsvg.in)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
