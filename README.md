@@ -37,6 +37,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/master/0001-two-sum) |
 | [0200-number-of-islands](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0695-max-area-of-island/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +71,7 @@
 | [0200-number-of-islands](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0695-max-area-of-island](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0695-max-area-of-island/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,12 +91,15 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0226-invert-binary-tree/) | Easy |
+| [0695-max-area-of-island](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0695-max-area-of-island/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0695-max-area-of-island/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0200-number-of-islands/) | Medium |
+| [0695-max-area-of-island](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
