@@ -36,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/master/0001-two-sum) |
+| [0200-number-of-islands](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0200-number-of-islands/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +67,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0200-number-of-islands](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0226-invert-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Tree
@@ -85,5 +87,14 @@
 | [0100-same-tree](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0101-symmetric-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0226-invert-binary-tree/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Tanishsnghhh/Tanishsnghhh/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
